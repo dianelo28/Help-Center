@@ -3,7 +3,7 @@
 title: Trial Activation
 description: Learn about the free 7-day trial of GitKraken Pro and how to extend it.
 taxonomy:
-    doc_category: gitkraken-client
+    category: gitkraken-client
 
 ---
 

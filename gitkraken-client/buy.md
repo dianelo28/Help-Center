@@ -3,7 +3,7 @@
 title: How to buy
 description: Learn how to buy your GitKraken Pro subscription.
 taxonomy:
-    doc_category: gitkraken-client
+    category: gitkraken-client
 
 ---
 
